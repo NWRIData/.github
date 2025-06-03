@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-This the GitHub profile for the New Worlds Reading Initiative Data Team
+This is the GitHub profile for the New Worlds Reading Initiative Data Team.
+
+[📊 Click here to access data reports](https://github.com/NWRIData/School_Level_Report.html)
+
